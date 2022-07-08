@@ -1,0 +1,63 @@
+.r {
+    background-image: url(donation0.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 400px;
+}
+
+p {
+    font-size: 15px;
+}
+
+h1 {
+    text-align: center;
+    font-size: 50px;
+    font-weight: 700;
+    color: white;
+}
+
+.r {
+    padding: 50px 0;
+    text-align: center;
+}
+
+.link-button {
+    background-image: linear-gradient(to right, pink, tomato);
+    background-position: center;
+    font-size: 30px;
+    padding: 10px 40px;
+    text-align: center;
+    text-decoration: white;
+    color: white;
+}
+
+.second {
+    font-size: 20px;
+    text-align: center;
+}
+
+.flexible {
+    display: flex;
+    margin: 20px 90px;
+    align-items: center;
+    font-size: 12px;
+}
+
+.experience-item {
+    width: 400%;
+    border-radius: 2px;
+    color: palevioletred;
+
+}
+
+#full-stack-developer {
+    border: 2px solid palevioletred;
+}
+
+h3 {
+    color: red;
+    text-align: center;
+    font-weight: 700;
+    font-style: italic;
+    font-size: 25px;
+}
